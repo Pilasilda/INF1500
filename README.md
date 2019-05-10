@@ -6,5 +6,3 @@ My work through the course 'Introduksjon til design bruk og interaksjon'.
 * **Pilasilda A.George** 
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
